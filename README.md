@@ -31,3 +31,6 @@ Prioritize **Recall for Stroke** (catch more real stroke cases) using **SMOTE** 
 - Plots: **images/**
 
 ## 📂 Structure
+
+## 🔗 Dataset
+Kaggle — *Stroke Prediction Dataset* (by fedesoriano).
