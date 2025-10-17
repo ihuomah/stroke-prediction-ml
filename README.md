@@ -33,4 +33,5 @@ Prioritize **Recall for Stroke** (catch more real stroke cases) using **SMOTE** 
 ## 📂 Structure
 
 ## 🔗 Dataset
-Kaggle — *Stroke Prediction Dataset* (by fedesoriano).
+Kaggle — [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) *(by fedesoriano)*
+
